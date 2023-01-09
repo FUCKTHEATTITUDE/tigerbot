@@ -3,7 +3,7 @@ API_ID = 14782914
 SESSION_STRING = ""# Check Readme to generate sessions; need for userbot
 API_HASH = "3aa2fabe1074632cf6e2b01da083a2c6"
 USERBOT_PREFIX = "."
-PHONE_NUMBER = "+916381987933"  # Need for Userbot
+PHONE_NUMBER = "+918925108674"  # Need for Userbot
 SUDO_USERS_ID = [
     5938516793,
     1930954213,
